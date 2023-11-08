@@ -1,3 +1,7 @@
-[submodule "Section1_Getting_Started/React-Native-Tutorials/RNCourse"]
-	path = Section1_Getting_Started/React-Native-Tutorials/RNCourse
+[submodule "Section1_Getting_Started/RNCourse"]
+	path = Section1_Getting_Started/RnCourse
 	url = https://github.com/LenTestProj/React-Native-Tutorials.git
+
+[submodule "Section4_Diving_Deeper_Components/RNCourse"]
+	path = Section4_Diving_Deeper_Components/RNCourse
+	url = https://github.com/LenTestProj/React-Native-Tutorials.git	
